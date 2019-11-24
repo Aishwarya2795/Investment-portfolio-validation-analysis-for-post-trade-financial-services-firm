@@ -1,2 +1,2 @@
-# Salary_Predicitor
-Salary Prediction Project (Python)
+# Stock Market Behavior Analysis and Forecasting 
+
