@@ -1,4 +1,4 @@
-# Stock Market Behavior Analysis and Forecasting 
+# Investment portfolio validation analysis using quantitative features and word embeddings   
 
 Problem Description :
 
