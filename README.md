@@ -1,4 +1,4 @@
-# Investment portfolio validation analysis using stock data  
+# Investment portfolio validation analysis on stocks
 
 Problem Description :
 
